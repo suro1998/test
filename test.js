@@ -5,6 +5,5 @@ function foo() {
 }
 foo()
 
-function sum(sum1,sum2) {
-     return sum1 + sum2
-}
+const sum = (sum1, sum2) => sum1 + sum2;
+const foo1 = () => 'hello man'
