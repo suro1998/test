@@ -6,4 +6,6 @@ function foo() {
 foo()
 
 const sum = (sum1, sum2) => sum1 + sum2;
-const foo1 = () => 'hello man'
+const foo1 = () => 'hello man';
+
+const obj = new Object()
